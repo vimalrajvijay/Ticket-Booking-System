@@ -1,92 +1,92 @@
 [
   {
     "title": "Leo",
-    "description": "An action thriller movie",
+    "description": "A man with a mysterious past faces his old enemies.",
     "genre": "Action",
     "language": "Tamil",
-    "durationMinutes": 164,
+    "duration": 164,
     "releaseDate": "2023-10-19",
-    "certification": "UA"
+    "certificate": "UA"
   },
   {
     "title": "Jailer",
-    "description": "A retired jailer takes on a criminal gang",
+    "description": "A retired jailer sets out to find his missing son.",
     "genre": "Action",
     "language": "Tamil",
-    "durationMinutes": 168,
+    "duration": 168,
     "releaseDate": "2023-08-10",
-    "certification": "UA"
+    "certificate": "A"
   },
   {
     "title": "Vikram",
-    "description": "A special agent investigates a series of murders",
-    "genre": "Action",
+    "description": "A special agent investigates a series of mysterious murders.",
+    "genre": "Thriller",
     "language": "Tamil",
-    "durationMinutes": 174,
+    "duration": 174,
     "releaseDate": "2022-06-03",
-    "certification": "A"
+    "certificate": "A"
   },
   {
-    "title": "Jawan",
-    "description": "A man takes action against social injustice",
+    "title": "RRR",
+    "description": "Two revolutionaries fight against British colonial rule.",
     "genre": "Action",
-    "language": "Hindi",
-    "durationMinutes": 169,
-    "releaseDate": "2023-09-07",
-    "certification": "UA"
-  },
-  {
-    "title": "Interstellar",
-    "description": "Astronauts travel through space to find a new home for humanity",
-    "genre": "Science Fiction",
-    "language": "English",
-    "durationMinutes": 169,
-    "releaseDate": "2014-11-07",
-    "certification": "UA"
-  },
-  {
-    "title": "Inception",
-    "description": "A skilled thief enters people's dreams to steal secrets",
-    "genre": "Science Fiction",
-    "language": "English",
-    "durationMinutes": 148,
-    "releaseDate": "2010-07-16",
-    "certification": "UA"
+    "language": "Telugu",
+    "duration": 187,
+    "releaseDate": "2022-03-25",
+    "certificate": "UA"
   },
   {
     "title": "3 Idiots",
-    "description": "Three engineering students challenge traditional education",
-    "genre": "Comedy Drama",
+    "description": "Three engineering students challenge traditional education.",
+    "genre": "Comedy",
     "language": "Hindi",
-    "durationMinutes": 170,
+    "duration": 170,
     "releaseDate": "2009-12-25",
-    "certification": "UA"
+    "certificate": "UA"
   },
   {
-    "title": "Premalu",
-    "description": "A young man navigates love and relationships",
-    "genre": "Romantic Comedy",
+    "title": "Inception",
+    "description": "A skilled thief enters people's dreams to steal secrets.",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "duration": 148,
+    "releaseDate": "2010-07-16",
+    "certificate": "UA"
+  },
+  {
+    "title": "Interstellar",
+    "description": "A team of explorers travels through space to find a new home for humanity.",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "duration": 169,
+    "releaseDate": "2014-11-07",
+    "certificate": "UA"
+  },
+  {
+    "title": "Drishyam",
+    "description": "A father uses his intelligence to protect his family from a criminal investigation.",
+    "genre": "Crime Thriller",
     "language": "Malayalam",
-    "durationMinutes": 156,
-    "releaseDate": "2024-02-09",
-    "certification": "U"
+    "duration": 160,
+    "releaseDate": "2013-12-19",
+    "certificate": "U"
   },
   {
-    "title": "Kalki 2898 AD",
-    "description": "A futuristic story inspired by Indian mythology",
-    "genre": "Science Fiction",
-    "language": "Telugu",
-    "durationMinutes": 181,
-    "releaseDate": "2024-06-27",
-    "certification": "UA"
+    "title": "Dangal",
+    "description": "A former wrestler trains his daughters to become champion wrestlers.",
+    "genre": "Drama",
+    "language": "Hindi",
+    "duration": 161,
+    "releaseDate": "2016-12-23",
+    "certificate": "U"
   },
   {
-    "title": "Maharaja",
-    "description": "A barber seeks justice after a mysterious incident",
-    "genre": "Thriller",
-    "language": "Tamil",
-    "durationMinutes": 141,
-    "releaseDate": "2024-06-14",
-    "certification": "A"
+    "title": "The Conjuring",
+    "description": "Paranormal investigators help a family experiencing terrifying supernatural events.",
+    "genre": "Horror",
+    "language": "English",
+    "duration": 112,
+    "releaseDate": "2013-07-19",
+    "certificate": "A"
   }
 ]
