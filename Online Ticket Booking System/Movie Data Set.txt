@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Leo",
+    "description": "An action thriller movie",
+    "genre": "Action",
+    "language": "Tamil",
+    "durationMinutes": 164,
+    "releaseDate": "2023-10-19",
+    "certification": "UA"
+  },
+  {
+    "title": "Jailer",
+    "description": "A retired jailer takes on a criminal gang",
+    "genre": "Action",
+    "language": "Tamil",
+    "durationMinutes": 168,
+    "releaseDate": "2023-08-10",
+    "certification": "UA"
+  },
+  {
+    "title": "Vikram",
+    "description": "A special agent investigates a series of murders",
+    "genre": "Action",
+    "language": "Tamil",
+    "durationMinutes": 174,
+    "releaseDate": "2022-06-03",
+    "certification": "A"
+  },
+  {
+    "title": "Jawan",
+    "description": "A man takes action against social injustice",
+    "genre": "Action",
+    "language": "Hindi",
+    "durationMinutes": 169,
+    "releaseDate": "2023-09-07",
+    "certification": "UA"
+  },
+  {
+    "title": "Interstellar",
+    "description": "Astronauts travel through space to find a new home for humanity",
+    "genre": "Science Fiction",
+    "language": "English",
+    "durationMinutes": 169,
+    "releaseDate": "2014-11-07",
+    "certification": "UA"
+  },
+  {
+    "title": "Inception",
+    "description": "A skilled thief enters people's dreams to steal secrets",
+    "genre": "Science Fiction",
+    "language": "English",
+    "durationMinutes": 148,
+    "releaseDate": "2010-07-16",
+    "certification": "UA"
+  },
+  {
+    "title": "3 Idiots",
+    "description": "Three engineering students challenge traditional education",
+    "genre": "Comedy Drama",
+    "language": "Hindi",
+    "durationMinutes": 170,
+    "releaseDate": "2009-12-25",
+    "certification": "UA"
+  },
+  {
+    "title": "Premalu",
+    "description": "A young man navigates love and relationships",
+    "genre": "Romantic Comedy",
+    "language": "Malayalam",
+    "durationMinutes": 156,
+    "releaseDate": "2024-02-09",
+    "certification": "U"
+  },
+  {
+    "title": "Kalki 2898 AD",
+    "description": "A futuristic story inspired by Indian mythology",
+    "genre": "Science Fiction",
+    "language": "Telugu",
+    "durationMinutes": 181,
+    "releaseDate": "2024-06-27",
+    "certification": "UA"
+  },
+  {
+    "title": "Maharaja",
+    "description": "A barber seeks justice after a mysterious incident",
+    "genre": "Thriller",
+    "language": "Tamil",
+    "durationMinutes": 141,
+    "releaseDate": "2024-06-14",
+    "certification": "A"
+  }
+]
